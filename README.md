@@ -21,4 +21,4 @@ About me ...
 ### Github Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrippey&theme=github_dark&hide_border=true&hide=javascript,typescript,java,css,vue,ruby&layout=compact" /></a> |
-| ------------- | ------------- |
+
